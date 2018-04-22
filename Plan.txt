@@ -3,4 +3,4 @@ This is a Machine learning plan.
 2, put papers into different catagory 
 3, build some interesting models 
 4, put models into Raspberry environment. 
-
+5, try something new5, try something new5, try something new5, try something new5, try something new
